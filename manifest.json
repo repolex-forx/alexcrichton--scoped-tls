@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "alexcrichton",
+  "repo": "scoped-tls",
+  "versions": [
+    {
+      "commit": "c0ff7bf6d33e568353ed863d90f893e7e80a0ed1",
+      "parsed_at": "2026-04-23T01:46:54.033494+00:00",
+      "tag": "1.0.1",
+      "filetree": "filetree/c0ff7bf6d33e568353ed863d90f893e7e80a0ed1.nq.gz",
+      "blobs": [
+        "blob/fee6182bc5e8afd397a86e3bd48d67f0e859d1b2.nq.gz",
+        "blob/d4567c2bcbd7ce1642b576d39340bea3d3e65732.nq.gz",
+        "blob/6ef9917cf2d9da005d2a1f64f34937ac5df09890.nq.gz",
+        "blob/39e0ed6602151f235148e6c08413aa7eda5b9038.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/36e6480e2c69260b3ad687f9a6ab14723ecbcc9a.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
